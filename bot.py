@@ -45,7 +45,7 @@ async def next_tournament(ctx) :
     )
 
     embed.set_author(name="Minecraft Weekly", icon_url="https://3dwarehouse.sketchup.com/warehouse/v1.0/publiccontent/8ae1e915-94ec-4c0b-b8c7-1f18095e814e")
-    embed.add_field(name="Extreme Camoflage Hide And Seek ", value="Friday 14th of August, 6:15 BST", inline=False)
+    embed.add_field(name="Wool Shuffle ", value="N/A 6:15 BST", inline=False)
     embed.add_field(name="Wool Shuffle", value="Monday 17th of August, 6:15 BST", inline=False)
     embed.set_footer(text=f"Made by Tic. | {client.user.name} | alecdev.cf")
 
